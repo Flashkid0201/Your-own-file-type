@@ -25,7 +25,7 @@ then get any application that's a exe file
 
 then duplicate the application to your desktop
 
-then rename the file type to what ever you did in the .reg file 
+then rename the file type on the duplicate of the application to what ever you did in the .reg file 
 
 then save
 
@@ -34,3 +34,19 @@ then run the .reg file
 then open the duplicate application you made 
 
 then boom
+
+or you can downlaod the anything you want.reg file
+
+then right click and click edit
+
+if you have read all of this you know what to change in the file
+
+then click save as a .reg file 
+
+and make the other drop down box all files 
+
+and save
+
+and add the anything you want.reg file on your desktop and run it
+
+and if you have read all of this I think you know what to do 
