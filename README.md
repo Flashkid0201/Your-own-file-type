@@ -1,4 +1,10 @@
-# Your-own-file-type
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️🚨🚨🚨🚨🚨🚨❗️❗️❗️❗️❗️❗️❗️❗️❗️❗️ 
+DO NOT I REPEAT DO NOT I REPEAT DO NOT DOWNLOAD THE anything-you-want.reg
+
+DOWNLOAD THE .rar FILE AND EXTRACT IT YOU WILL SEE THE PROPER anything-you-want.reg FILE
+
+
+#Your-own-file-type
 Read the Readme file please
 
 Ok you must be on Windows to this
