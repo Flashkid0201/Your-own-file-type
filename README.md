@@ -35,9 +35,11 @@ then open the duplicate application you made
 
 then boom
 
-or you can downlaod the anything you want.reg file
+or you can downlaod the .rar file
 
-then right click and click edit
+extract it
+
+then right click and click edit on the .reg file
 
 if you have read all of this you know what to change in the file
 
